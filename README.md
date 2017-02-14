@@ -109,6 +109,9 @@ head.vue
 【./】 代表的是当前层的目录
 
 下面是 项目的目录
+![项目的根目录](https://github.com/zhoupeihuang/vue2_webpack/blob/master/mulu.png)
+
+
 
 
 
